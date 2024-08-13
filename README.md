@@ -1,5 +1,5 @@
 # Aplikasi Laundry
-## _Gambaran Aplikasi Laundry ( 2023 )_
+## _Gambaran Aplikasi Laundry ( 2023 ) Tidak FUll_
 
 
 ## Features
